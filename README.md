@@ -1,2 +1,2 @@
 # cloudflare_project
-Building a linktree stly website
+Building a linktree style website
